@@ -2,4 +2,4 @@
 
 Watching video #8 - Starting To Fill The Structure
 
-Timestamp - 00:00:00
+Timestamp - 00:02:45
