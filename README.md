@@ -1,5 +1,5 @@
 # html_css
 
-Watching video #11 - Getting Started With CSS
+Watching video #12 - Starting To Make Our Webpage Pretty: Text
 
 Timestamp - 00:00:00
