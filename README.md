@@ -1,4 +1,4 @@
-# udemy_html_css
+# html_css
 
 Watching video #11 - Getting Started With CSS
 
