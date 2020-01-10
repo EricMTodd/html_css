@@ -1,5 +1,5 @@
 # udemy_html_css
 
-Watching video #8 - Starting To Fill The Structure
+Watching video #9 - Images and Attributes
 
-Timestamp - 00:02:45
+Timestamp - 00:00:00
