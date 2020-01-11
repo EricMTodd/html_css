@@ -2,4 +2,4 @@
 
 Watching video #12 - Starting To Make Our Webpage Pretty: Text
 
-Timestamp - 00:00:00
+Timestamp - 00:07:00
