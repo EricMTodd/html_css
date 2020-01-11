@@ -1,5 +1,5 @@
 # html_css
 
-Watching video #12 - Starting To Make Our Webpage Pretty: Text
+Watching video #13 - Colors
 
-Timestamp - 00:07:00
+Timestamp - 00:00:00
