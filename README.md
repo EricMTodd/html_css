@@ -1,5 +1,5 @@
 # html_css
 
-Watching video #17 - Polishing Our Blog Post
+Watching video #18 - Relative VS. Absolute
 
-Timestamp - 00:07:30
+Timestamp - 00:00:00
