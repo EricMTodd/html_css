@@ -1,5 +1,5 @@
 # html_css
 
-Watching video #25 - Working With Icons
+Watching video #26 - Spacing and Layout
 
 Timestamp - 00:00:00
