@@ -1,6 +1,6 @@
 # html_css
 
-Watching video #36 - First Development Steps
+Watching video #37 - Setting Up The Fluid Grid For Responsive Web Design.
 
 Timestamp - 00:00:00
 
@@ -23,7 +23,8 @@ Define the site structure if it's a bigger project.
 
 Get inspired and think about your design.
 Get the ideas out of your head: sketch your ideas before you start designing.
-Make as many sketches as you want, but don't worry about making it perfect.
+Make as many sketches as you
+want, but don't worry about making it perfect.
 Never start designing without having an idea of what you want to build.
 
 ### 4. Design and Develop Your Website
