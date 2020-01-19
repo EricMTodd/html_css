@@ -1,6 +1,6 @@
 # html_css
 
-Watching video #37 - Setting Up The Fluid Grid For Responsive Web Design.
+Watching video #38 - Building The Header - Part 1
 
 Timestamp - 00:00:00
 
