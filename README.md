@@ -1,6 +1,6 @@
 # html_css
 
-Watching video #35 - Putting The Seven Steps Into Action
+Watching video #36 - First Development Steps
 
 Timestamp - 00:00:00
 
